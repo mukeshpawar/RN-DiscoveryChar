@@ -2,7 +2,7 @@
 ReactNative DiscoveryChar app
 
 
-Please do belows step to run app in ios- 
+Please do below step in visualstudio terminal to run app in ios- 
 
 Step:1 - npm i --force 
 
